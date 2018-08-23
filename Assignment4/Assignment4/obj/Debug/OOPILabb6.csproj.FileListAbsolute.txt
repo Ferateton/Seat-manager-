@@ -1,0 +1,27 @@
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\OOPILabb6.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\OOPILabb6.MainForm.resources
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\OOPILabb6.Properties.Resources.resources
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\OOPILabb6.csproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Fabian\Desktop\Spel utveckling\År 1\OOP I\Labb Uppgifter\Laboration 6-7\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\OOPILabb6.csprojResolveAssemblyReference.cache
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\OOPILabb6.MainForm.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\OOPILabb6.Properties.Resources.resources
+C:\Users\Ferateton\Documents\Visual Studio 2012\Projects\Assignment4\Assignment4\obj\Debug\OOPILabb6.csproj.GenerateResource.Cache
+E:\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+E:\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+E:\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+E:\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+E:\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+E:\Assignment4\Assignment4\obj\Debug\OOPILabb6.csprojResolveAssemblyReference.cache
+E:\Assignment4\Assignment4\obj\Debug\OOPILabb6.MainForm.resources
+E:\Assignment4\Assignment4\obj\Debug\OOPILabb6.Properties.Resources.resources
+E:\Assignment4\Assignment4\obj\Debug\OOPILabb6.csproj.GenerateResource.Cache
